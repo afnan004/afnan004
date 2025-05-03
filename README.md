@@ -10,8 +10,8 @@
 🎓 I’m currently learning Front-End Web Development at <strong>ALX Software Engineering Program</strong>  
 💡 My journey into software engineering began with a deep fascination for how websites are built and how digital products can make lives easier.  
 🎨 I'm passionate about <strong>digital creativity</strong> — where code meets design to create beautiful, intuitive, and accessible user experiences.  
-🎯 My vision is to <strong>[Insert your vision here — e.g., "build inclusive digital products that solve real-world problems"]</strong>  
-🛠️ I'm eager to work on <strong>[Insert project types — e.g., interactive dashboards, accessibility-focused websites, design systems, etc.]</strong>
+🎯 My vision is to <strong> build inclusive digital products that solve real-world problems </strong>  
+🛠️ I'm eager to work on <strong>interactive dashboards, accessibility-focused websites, design systems, etc.</strong>
 
 ---
 
