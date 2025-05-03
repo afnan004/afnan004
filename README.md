@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Full Name]</h1>
+<h1 align="center">Hi 👋, I'm Afnan Medhat</h1>
 <h3 align="center">A Front-End Developer | UI/UX Enthusiast | ALX SE Learner</h3>
 
 <p align="center">
@@ -28,39 +28,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
----
 
-### 📂 Projects I'm Proud Of
 
-- 💼 **[Project Name]**  
-  Description: A [short description of what it does].  
-  Tech stack: HTML, CSS, JavaScript  
-  GitHub: [link-to-repo]
-
-- 🧪 **[Project Name]**  
-  Description: [What problem does it solve or what makes it unique?]  
-  Tech stack: [list technologies]  
-  GitHub: [link-to-repo]
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=default" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=default" alt="GitHub streak" />
-</p>
-
----
-
-### 📬 Let's Connect
-
-- LinkedIn: [your-linkedin-profile]
-- Twitter: [your-twitter-username]
-- Portfolio: [your-portfolio-link]
-
----
 
 <p align="center">
   <img src="https://github.com/[your-username]/[your-username]/raw/main/code.gif" width="300"/>
